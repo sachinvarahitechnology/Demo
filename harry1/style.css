@@ -1,0 +1,40 @@
+body{
+   margin:0;
+    padding: 0;
+   box-sizing:border-box;
+   background-color: rgb(49, 47, 47);
+     
+}
+.container{
+   height: 100px;
+   width: auto;
+   background-color: rgb(93, 83, 83);
+   margin: 0%;
+}
+.innercontainer h1{
+   color: #f3ebeb;
+   font-size: 300%;
+   font-style: italic;
+   margin: 0%;
+   padding: 2%;
+     
+}
+
+.innercontainer h4{
+   color: blanchedalmond;
+text-align: right;
+margin-right: 10%;
+margin-top: auto;
+ 
+}
+.innercontainer h4 {
+    text-align: right;
+
+   margin-right: 10%;
+    display: inline-block;
+}
+
+ 
+ 
+
+

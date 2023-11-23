@@ -1,0 +1,19 @@
+{
+  "name": "demo_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "karma": "^6.4.2",
+    "protractor": "^7.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
